@@ -45,3 +45,14 @@ As a member of the project team, I contributed to the workforce analytics proces
 
 ## Interactive Dashboard
 A published Tableau dashboard link is included in the full project report PDF.
+
+## Dashboard Visuals
+
+### Gender Mix by Department
+![Gender Mix by Department](gender-mix-by-department.png)
+
+### Age Distribution by Department
+![Age Distribution by Department](age-distribution-by-department.png)
+
+### Employee Location Map
+![Employee Location Map](employee-location-map.png)
